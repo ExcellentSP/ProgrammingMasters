@@ -1,5 +1,4 @@
 # Programming Masters Vision
-This Discord server rose out of the popularity of the following post: https://www.reddit.com/r/learnprogramming/comments/dq9isz/i_want_to_teach_someone_programming/
 
 If you are seeing this message and are a part of this server, you are programming journeymen or higher who has or wants an apprentice and would like to collaborate with other professionals. Regardless of skill level, we're each here to:
 1. Mentor apprentices in becoming successful programmers.
