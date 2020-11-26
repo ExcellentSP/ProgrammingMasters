@@ -7,7 +7,7 @@ If you are seeing this message and are a part of this server, you are programmin
 4. Express difficulties with other mentors and work together to overcome obstacles.
 
 Apprentices give us the gift of their drive and devotion. They are allowing us to teach and mold them into great programmers so they can accomplish their dreams.  Let’s not fail them.
-
+-----------------------------------------------------------------------------------
 In the spirit of this modified apprenticeship style, we will abide by the following practices:
 1. We can’t tell you how to run your apprenticeships, but we can exclude you from the group if you do not follow the guidelines laid out by the official visionaries.
 2. A list of the current official visionaries are as follows:
@@ -20,3 +20,4 @@ In the spirit of this modified apprenticeship style, we will abide by the follow
 8. Your choice in apprentices is purely up to you, so is the continuance of their education with you. If for any reason you can no longer mentor an apprentice when they would like to continue, ensure you recommend them to another mentor who might be able take them on.
 
 We are still in the concept phases of this idea so everything and anything about this collaboration is subject to change.
+-----------------------------------------------------------------------------------
