@@ -19,4 +19,4 @@ In the spirit of this modified apprenticeship style, we will abide by the follow
 7. Due to the nature of this method, you may find a lack of commitment in many apprentices. It is your responsibility to vet their experience, drive, and commitment. Choose wisely.
 8. Your choice in apprentices is purely up to you, so is the continuance of their education with you. If for any reason you can no longer mentor an apprentice when they would like to continue, ensure you recommend them to another mentor who might be able take them on.
 
-We are still in the concept phases of this idea so everything and anything about this collaboration is subject to change
+We are still in the concept phases of this idea so everything and anything about this collaboration is subject to change.
